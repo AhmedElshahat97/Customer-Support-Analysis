@@ -1,6 +1,15 @@
 
 # Customer Support Analysis Dashboard Using Power BI
 
+![Project3 - Customer Support Analysis_page-0001](https://github.com/user-attachments/assets/6ea98dbf-985f-4b15-9962-53c18f29c2c5)
+![Project3 - Customer Support Analysis_page-0002](https://github.com/user-attachments/assets/e6e3e9dd-0d73-4916-890d-63ea21e1743a)
+![Project3 - Customer Support Analysis_page-0003](https://github.com/user-attachments/assets/2a7c2b7d-868c-44c7-bd36-51d7a5382cd3)
+![Project3 - Customer Support Analysis_page-0004](https://github.com/user-attachments/assets/bdd75ef1-8f54-4b40-bb84-273c1a9e50b1)
+![Project3 - Customer Support Analysis_page-0005](https://github.com/user-attachments/assets/8988688e-c16b-42f9-b9a3-1afbb55048d7)
+![Project3 - Customer Support Analysis_page-0006](https://github.com/user-attachments/assets/eb98edde-e848-4509-abb6-f02d09be24e1)
+![Project3 - Customer Support Analysis_page-0007](https://github.com/user-attachments/assets/77fcd3bd-7e18-4558-b62b-5be40e1c6c6e)
+
+
 ## Project Objectives
 - Analyze customer support performance over time using key metrics like **Answer Rate**, **SLA** (Service Level Agreement) percentage, **CSAT** (Customer Satisfaction Score), and **First Response Time** (FRT).
 - Identify trends, strengths, and areas for improvement in customer support to ensure **better customer satisfaction and operational efficiency**.
